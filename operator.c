@@ -20,6 +20,9 @@ int main(){
              printf("------------------------>It is  an Relational   Operator<-------------------\n");
 
     }
+    else{
+        printf("--------------------------->It is not an Opeartor<------------------------------\n");   
+    }
 
 
 return 0;
